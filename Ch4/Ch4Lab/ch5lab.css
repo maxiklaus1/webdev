@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+a:link {
+    background-color: lightblue;
+}
+
+a:hover {
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+a:visited {
+    background-color: lightgreen;
+}
